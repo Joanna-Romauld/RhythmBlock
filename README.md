@@ -1,5 +1,5 @@
 # Rhythm Blocks
-Level up your typing game with Rhythm Blocks, where falling blocks with random letters must be pressed in time. Each correct key pressed plays a musical chord with a fun beat!
+Level up your typing skills with Rhythm Blocks, where falling blocks with random letters must be pressed in time. Each correct key pressed plays a musical chord with a fun beat!
 
 ## Features
 - Randomized piano chords on each key press
