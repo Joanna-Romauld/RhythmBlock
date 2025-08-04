@@ -12,4 +12,6 @@ Level up your typing skills with Rhythm Blocks, where falling blocks with random
 - Tone.js - music  playback and audio synthesis
 - HTML + CSS - UI and website layout
 
+## Play Here: 
+https://joanna-romauld.github.io/RhythmBlock/
   
