@@ -140,7 +140,7 @@ text("GAME OVER", width / 2, height / 4);
   if(gameStarted && !gameOver){
 fill("white")
   textAlign(RIGHT, TOP);
-  text("Score: " + score, width - 100, 30);
+  text("Score: " + score, width - 200, 30);
   textSize(40);
   }
 
